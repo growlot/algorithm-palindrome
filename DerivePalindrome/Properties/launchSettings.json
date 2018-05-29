@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DerivePalindrome": {
+      "commandName": "Project",
+      "commandLineArgs": "abb a aabb 123461 1234621 12346321 123464321 \"\""
+    }
+  }
+}
